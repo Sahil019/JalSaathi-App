@@ -1,10 +1,12 @@
 <div align="center">
 
 ```text
-       _       _   ___             _   _     _ 
-    _ | |__ _ | | / __| __ _  __ _| |_| |_  (_)
-   | || / _` || | \__ \/ _` |/ _` |  _| ' \ | |
-    \__/\__,_||_| |___/\__,_|\__,_|\__|_||_||_|
+██╗ █████╗ ██╗      ███████╗ █████╗  █████╗ ████████╗██╗  ██╗██╗
+██║██╔══██╗██║      ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║
+██║███████║██║      ███████╗███████║███████║   ██║   ███████║██║
+██║██╔══██║██║      ╚════██║██╔══██║██╔══██║   ██║   ██╔══██║██║
+██║██║  ██║███████╗███████║██║  ██║██║  ██║   ██║   ██║  ██║██║
+╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
 ```
 
 **Smart Water Aggregator — "Swiggy for Water Delivery"**
@@ -146,7 +148,7 @@ Follow these steps to run JalSaathi locally.
 ### 1. Clone & Configure Environment
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/JalSaathi.git
+git clone https://github.com/Sahil019/JalSaathi-App.git
 cd JalSaathi
 ```
 
@@ -227,4 +229,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 <div align="center">
   <p>Built with 💧 in India</p>
   <p><i>Bringing every drop to every doorstep — intelligently.</i></p>
+  <br/>
+  <a href="https://github.com/Sahil019/JalSaathi-App">
+    <img src="https://img.shields.io/github/stars/Sahil019/JalSaathi-App?style=social" alt="GitHub stars" />
+  </a>
 </div>
