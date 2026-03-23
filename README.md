@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&height=100&lines=💧+JalSaathi;Smart+Water+Aggregator;Enterprise+SaaS+Platform" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=JalSaathi;Smart+Water+Aggregator;Enterprise+SaaS+Platform)](https://github.com/Sahil019/JalSaathi-App)
 
 **💧 Water Delivery, Reimagined for Bharat."**
 
