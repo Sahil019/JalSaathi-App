@@ -2,9 +2,9 @@ import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // API Configuration
-// For physical devices, use your computer's local IP address (e.g., 192.168.x.x)
+// Uses local IP for development, and a live HTTPS URL for production (EAS/Play Store builds)
 const CONFIG = {
-  BASE_URL: 'http://192.168.1.11:5000/api', // <-- UPDATE THIS IP FOR PHYSICAL DEVICES
+  BASE_URL: __DEV__ ? 'http://192.168.1.11:5000/api' : 'https://api.jalsaathi.com/api', // <-- UPDATE PRODUCTION URL BEFORE ACTUAL LAUNCH
   TIMEOUT: 10000,
 };
 
